@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Music_App</string>
+    <string name="top_5">Top Favourite List</string>
+    <string name="song1">Song: astronaut in the ocean</string>
+    <string name="duration1"> duration - 2:33</string>
+    <string name="song2">Song: Closer</string>
+    <string name="duration2"> duration - 6:33</string>
+    <string name="song3">Song: paris</string>
+    <string name="duration3"> duration - 5:36</string>
+    <string name="song4">Song: chills</string>
+    <string name="duration4"> duration - 4:33</string>
+    <string name="song5">Song: Scared to be lonely</string>
+    <string name="duration5"> duration - 3:53</string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string name="image">cover pic</string>
+</resources>
